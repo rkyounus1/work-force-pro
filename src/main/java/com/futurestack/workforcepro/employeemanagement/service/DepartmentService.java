@@ -1,4 +1,4 @@
-package com.futurestack.workforcepro.employeemanagement.controller.service;
+package com.futurestack.workforcepro.employeemanagement.service;
 
 public class DepartmentService {
 }
